@@ -1,2 +1,4 @@
 # UHD_DATA_4319
-Machine Learning Class
+Undergraduate Machine Learning Course
+
+Each file contains hard-coded ML methods
